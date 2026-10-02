@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/lichess_db_standard_rated_2026-08.pgn.zst
+data/processed/rapid_games_A_lichess.csv
+data/processed/rapid_games_A.csv
+data/processed/rapid_games_B_10.csv
+data/processed/rapid_games_B_20.csv
+data/processed/rapid_games_C_10_full.csv
+data/processed/rapid_games_C_20_full.csv
+data/processed/rapid_games_D_10_full.csv
+data/processed/rapid_games_D_20_full.csv
+data/processed/rapid_games_C_10_small.csv
+data/processed/rapid_games_D_20_small.csv
